@@ -1,8 +1,8 @@
--👋 Hi, I'm Diana
--🌱 I’m a Data Analyst, working to become a digital nomad
--👀 I’m interested in Data Science, AI, Natural Language Processing, languages & travel
--💞️ I’m curious about every topic, but especially motivated by health, society, help young people, design, art, environment, animals
--📫 You can reach me on LinkedIn https://www.linkedin.com/in/itsdianavo/
+- 👋 Hi, I'm Diana
+- 🌱 I’m a Data Analyst, working to become a digital nomad
+- 👀 I’m interested in Data Science, AI, Natural Language Processing, languages & travel
+- 💞️ I’m curious about every topic, but especially motivated by health, society, help young people, design, art, environment, animals
+- 📫 You can reach me on LinkedIn https://www.linkedin.com/in/itsdianavo/
 
 **stalk our repo NLP tweet Kaggle challenge, slides and Youtube demo** : https://github.com/AxelCatelan/NLP_Natural_Disasters
 - google slide : https://docs.google.com/presentation/d/1k6YtiP94PLBr1nykQHrBTTCwWD4lAIZ-6ldgQ3-6dTY/edit?usp=drivesdk
