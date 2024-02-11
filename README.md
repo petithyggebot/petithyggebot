@@ -5,7 +5,8 @@
 - google slide : https://docs.google.com/presentation/d/1_EuSRNom8zI_3Ect2FmykV2O0HxX-0EN1Jqg_7gHNLo/edit?usp=sharing
 - 10min official Demo Day at Startway : *>>> go forward to 12:35😉* https://www.youtube.com/watch?v=nGc_YMBqNJU&list=PLlLbGazPpRfgiPqYam91OV9O0Me3bAQlC&index=18&ab_channel=LeWagon
 
-- 🌱 I’m a Data Analyst, working to become a digital nomad
+- 🌱 I’m a Data Analyst, specialized in educational administration, fragrance cosmetic regulation affairs, NLP.
+  
 - 👀 I’m interested in Data Science, AI, Natural Language Processing, languages & travel. I enjoy learning the local language of my destinations. 
 - I can work in english, french, vietnamese.
 - 💞️ I’m curious about every topic, but especially motivated by health, society, help young people, design, art, environment, animals
